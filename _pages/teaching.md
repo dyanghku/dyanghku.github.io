@@ -7,13 +7,13 @@ classes: wide
 ---
 
 ## At HKU: [GBA (HK-SZ) Part Time MBA](https://mba.hkubs.hku.hk/part-time-gba-mba/)
-
+--------------
 - 2024-2025:  PMBA 6093 Analytics for Managers, Classes C-D
 - 2023-2024:  PMBA 6093 Analytics for Managers, Classes C-E
 - 2022-2023:  PMBA 6093 Analytics for Managers, Classes C-D
 
 ## At HKU: [Master of Science in Business Analytics (MSBA)](https://msc.hkubs.hku.hk/articles/masterofscienceinbusinessanalytics)
-
+--------------
 - 2024-2025:  MSBA 7013 Forecasting and Predictive Analytics, Class A
 - 2023-2024:  MSBA 7013 Forecasting and Predictive Analytics, Classes A-B
 - 2022-2023:  MSBA 7013 Forecasting and Predictive Analytics, Classes A-B 
@@ -27,7 +27,7 @@ classes: wide
 - 2018-2019:  MSBA 7013 Forecasting and Predictive Analytics, Class A
 
 ## At HKU: Executive Education
-
+--------------
 - China Construction Bank Data Analyst Program, Cohorts 1-3
     * Forecasting and Predictive Analytics
     * Managing and Mining Big Data
@@ -37,7 +37,7 @@ classes: wide
     * Managing and Mining Big Data
 
 ## At Rutgers:
-
+--------------
 - Spring 2018: MSDS 588 Data Mining
 - Spring 2017:  STAT 567 Applied Multivariate Analysis
 - Spring 2016: STAT 567 Applied Multivariate Analysis

@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 ## Grants:
-
+--------------
 - Statistical Learning with Big Data of Dynamic Tensor Structure. PI. GRF Project No. 17301620, Jan. 2021 - Dec. 2023.
 - Hong Kong RECAP: A Systematic Response Strategy for Novel Infectious Disease Pandemic. Co-PI. CRF Project C7162-20GF, Jul. 2021-Jun. 2023.
 - NSF BIGDATA, IIS-1741390, Statistical Learning with Large Dynamic Tensor Data, Co-PI, 2017-2020
 - Shenzhen SZRI2023-TBRF-03, Smart Healthcare – Accessibility, Quality and Affordability, 2022-2027.
 
 ## Preprints:
-
+--------------
 - Junhui Cai, Dan Yang, Wu Zhu, Haipeng Shen and Linda Zhao (2021) <br>
 Network Regression and Supervised Centrality Estimation. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963523) [[Arxiv]](https://arxiv.org/abs/2111.12921)
 
@@ -24,7 +24,7 @@ Network Regression and Supervised Centrality Estimation. [[SSRN]](https://papers
 - Jianlong Shao, Dong Wang, Dan Yang, Haipeng Shen and Yan Xu (2022) <br> Multi-Group Multi-Subject Independent Component Analysis with Application in Global Portfolio Management.
 
 ## Publications:
-
+--------------
 - Yuefeng Han, Rong Chen, Dan Yang, and Cun-Hui Zhang (2024+) <br> Tensor factor model estimation by iterative projection. <br> Annals of Statistics, accepted. [[Arxiv]](https://arxiv.org/abs/2006.02611)
 
 - Yuefeng Han, Dan Yang, Cun-Hui Zhang and Rong Chen (2024+) <br> CP Factor Model for Dynamic Tensors. <br> The Journal of the Royal Statistical Society, Series B, accepted.
@@ -52,7 +52,7 @@ Network Regression and Supervised Centrality Estimation. [[SSRN]](https://papers
 - Dan Yang and Dylan Small (2012). <br> An R package and a study of methods for computing empirical likelihood. <br> Journal of Statistical Computation and Simulation, 83(7), 1363-1372.
 
 ## Work in progress:
-
+--------------
 - Sparse matrix autoregressive model and global vector autoregressive model, with Long Feng, Sanyou Wu, and Yan Xu. To be submitted to Journal of Econometrics.
 - Matrix mixed data sampling with application in nowcasting of group macroeconomics, with Elynn Chen, Huan Lian, and Yan Xu.
 - Chinese Equity Holding Networks Structure, with Junhui Cai, Haipeng Shen, Wu Zhu, and Linda Zhao.

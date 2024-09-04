@@ -7,18 +7,25 @@ redirect_from:
   - /about.html
 ---
 
+<p style="text-align: justify;">
 I am an Associate Professor at Innovation and Information Management, [Business School](https://www.hkubs.hku.hk/), [The University of Hong Kong](https://www.hku.hk/), and an Associate Director for [Institute of Digital Economy and Innovation](https://idei.hkubs.hku.hk/) (IDEI). 
+</p>
 
+<p style="text-align: justify;">
 I received my PhD from Department of Statistics, The Wharton School, University of Pennsylvania in 2012 and my Bachelor's degrees in Statistics and Economics from Peking University in 2007. Before joining HKU, I was an Assistant Professor at [Department of Statistics](https://stat.rutgers.edu/), Rutgers University.
+</p>
 
 [The Stat Group at HKU Business School](https://hkubs-stat.github.io/)
 
-[Tenure-Track Professor/Associate Professor/Assistant Professor in Business Analytics (Statistics)](https://jobs.hku.hk/cw/en/listing/)
+[Tenure-Track Professor/Associate Professor/Assistant Professor in Business Analytics](https://jobs.hku.hk/cw/en/listing/)
 
 
 Prospective PhD students/Postdocs/RAs: 
 ------
+
+<p style="text-align: justify;">
 Our statistics (Business Analystics) group has multiple positions for [PhD students](https://phd.hkubs.hku.hk//), Research Assistants, and Postdocs. We have a focus on business analytics via machine learning with applications ranging from asset pricing to healthcare analytics. If you are interested, self-motivated, and have background in statistics, applied mathematics, or computer science, please send me an email with your CV, **transcripts**, and a short description of your research interests. 
+</p>
 
 Academic Appointments:
 ------
