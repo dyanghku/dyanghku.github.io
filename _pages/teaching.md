@@ -8,25 +8,33 @@ classes: wide
 
 ## At HKU: [GBA (HK-SZ) Part Time MBA](https://mba.hkubs.hku.hk/part-time-gba-mba/)
 
-- 2022-2023:  GBA-MBA 6093 Analytics for Managers 
+- 2024-2025:  PMBA 6093 Analytics for Managers, Classes C-D
+- 2023-2024:  PMBA 6093 Analytics for Managers, Classes C-E
+- 2022-2023:  PMBA 6093 Analytics for Managers, Classes C-D
 
 ## At HKU: [Master of Science in Business Analytics (MSBA)](https://msc.hkubs.hku.hk/articles/masterofscienceinbusinessanalytics)
 
-- 2023-2024:  MSBA 7013 Forecasting and Predictive Analytics 
-- 2022-2023:  MSBA 7013 Forecasting and Predictive Analytics 
-- 2021-2022:  MSBA 7028 Deep Learning
-- 2021-2022:  MSBA 7013 Forecasting and Predictive Analytics 
-- 2020-2021:  MSBA 7011 Managing and Mining Big Data
-- 2020-2021:  MSBA 7013 Forecasting and Predictive Analytics 
-- 2019-2020:  MSBA 7011 Managing and Mining Big Data
-- 2019-2020:  MSBA 7013 Forecasting and Predictive Analytics 
-- 2018-2019:  MSBA 7011 Managing and Mining Big Data
-- 2018-2019:  MSBA 7013 Forecasting and Predictive Analytics 
+- 2024-2025:  MSBA 7013 Forecasting and Predictive Analytics, Class A
+- 2023-2024:  MSBA 7013 Forecasting and Predictive Analytics, Classes A-B
+- 2022-2023:  MSBA 7013 Forecasting and Predictive Analytics, Classes A-B 
+- 2021-2022:  MSBA 7028 Deep Learning, Class A
+- 2021-2022:  MSBA 7013 Forecasting and Predictive Analytics, Classes A-B 
+- 2020-2021:  MSBA 7011 Managing and Mining Big Data, Classes A-B 
+- 2020-2021:  MSBA 7013 Forecasting and Predictive Analytics, Classes A-B 
+- 2019-2020:  MSBA 7011 Managing and Mining Big Data, Classes A-B 
+- 2019-2020:  MSBA 7013 Forecasting and Predictive Analytics, Classes A-B 
+- 2018-2019:  MSBA 7011 Managing and Mining Big Data, Class A
+- 2018-2019:  MSBA 7013 Forecasting and Predictive Analytics, Class A
 
 ## At HKU: Executive Education
 
-- China Construction Bank Data Analyst Program
-- China Resources Data Scientist Program
+- China Construction Bank Data Analyst Program, Cohorts 1-3
+    * Forecasting and Predictive Analytics
+    * Managing and Mining Big Data
+    * R Bootcamp
+- China Resources Data Scientist Program, Cohorts 1-5
+    * Forecasting and Predictive Analytics
+    * Managing and Mining Big Data
 
 ## At Rutgers:
 

@@ -8,11 +8,8 @@ author_profile: true
 ## Grants:
 
 - Statistical Learning with Big Data of Dynamic Tensor Structure. PI. GRF Project No. 17301620, Jan. 2021 - Dec. 2023.
-
 - Hong Kong RECAP: A Systematic Response Strategy for Novel Infectious Disease Pandemic. Co-PI. CRF Project C7162-20GF, Jul. 2021-Jun. 2023.
-
 - NSF BIGDATA, IIS-1741390, Statistical Learning with Large Dynamic Tensor Data, Co-PI, 2017-2020
-
 - Shenzhen SZRI2023-TBRF-03, Smart Healthcare – Accessibility, Quality and Affordability, 2022-2027.
 
 ## Preprints:
@@ -22,15 +19,15 @@ Network Regression and Supervised Centrality Estimation. [[SSRN]](https://papers
 
 - Rong Chen, Yuefeng Han, Zebang Li, Han Xiao, Dan Yang, Ruofan Yu (2022) <br> Analysis of Tensor Time Series: tensorTS.
 
-- Yuefeng Han, Rong Chen, Dan Yang, and Cun-Hui Zhang (2020) <br> Tensor factor model estimation by iterative projection. [[Arxiv]](https://arxiv.org/abs/2006.02611)
-
 - Dan Yang, Dong Wang, Jianlong Shao, Haipeng Shen and Hongtu Zhu (2020) <br> Optimal functional bilinear regression with matrix covariates via reproducing kernel Hilbert space. [[Arxiv]](http://arxiv.org/abs/2311.12597)
 
 - Jianlong Shao, Dong Wang, Dan Yang, Haipeng Shen and Yan Xu (2022) <br> Multi-Group Multi-Subject Independent Component Analysis with Application in Global Portfolio Management.
 
 ## Publications:
 
-- Yuefeng Han, Dan Yang, Cun-Hui Zhang and Rong Chen (2024) <br> CP Factor Model for Dynamic Tensors. <br> The Journal of the Royal Statistical Society, Series B, accepted
+- Yuefeng Han, Rong Chen, Dan Yang, and Cun-Hui Zhang (2024+) <br> Tensor factor model estimation by iterative projection. <br> Annals of Statistics, accepted. [[Arxiv]](https://arxiv.org/abs/2006.02611)
+
+- Yuefeng Han, Dan Yang, Cun-Hui Zhang and Rong Chen (2024+) <br> CP Factor Model for Dynamic Tensors. <br> The Journal of the Royal Statistical Society, Series B, accepted.
 
 - Xin Chen, Dan Yang, Yan Xu, Yin Xia, Dong Wang, and Haipeng Shen (2023) <br> Testing and Support Recovery of Correlation Structures for Matrix-Valued Observations with an Application to Stock Market Data. <br> Journal of Econometrics, 232(2), 544-564. [[Arxiv]](https://arxiv.org/abs/2006.16501)
 
@@ -56,9 +53,12 @@ Network Regression and Supervised Centrality Estimation. [[SSRN]](https://papers
 
 ## Work in progress:
 
+- Sparse matrix autoregressive model and global vector autoregressive model, with Long Feng, Sanyou Wu, and Yan Xu. To be submitted to Journal of Econometrics.
+- Matrix mixed data sampling with application in nowcasting of group macroeconomics, with Elynn Chen, Huan Lian, and Yan Xu.
 - Chinese Equity Holding Networks Structure, with Junhui Cai, Haipeng Shen, Wu Zhu, and Linda Zhao.
-
 - Scalar-on-matrix bilinear regression analysis, with Dong Wang, Haipeng Shen, and Hongtu Zhu.
-
-- Matrix auto-regression with network information, with Sanyou Wu, Long Feng, and Yan Xu
-
+- Matrix GARCH model and portfolio construction, with Jianlong Shao, Haipeng Shen and Yan Xu.
+- Tensor decomposition and optimization of food delivery services, with Haobo Yu and Wei Zhang.
+- Parametric portfolio with expected return via Kronecker product decomposition, with Hanni Jie and Yan Xu.
+- The role of AI chatbot in auti-fraud phone call, with Xiaoliang Chen, Guoyu Kang, Haipeng Shen, and Echo Wan.
+- Three-way PCA for the factor zoo problem, with Tong Xu and Yan Xu.

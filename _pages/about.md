@@ -18,13 +18,14 @@ I received my PhD from Department of Statistics, The Wharton School, University 
 
 Prospective PhD students/Postdocs/RAs: 
 ------
-Our statistics (Business Analystics) group has multiple positions for [PhD students](https://phd.hkubs.hku.hk//), Research Assistants, and Postdocs. We have a focus on business analytics via machine learning with applications ranging from asset pricing to healthcare analytics. If you are interested, self-motivated, and have background in statistics, applied mathematics, or computer science, please send me an email with your CV, transcripts, and a short description of your research interests. 
+Our statistics (Business Analystics) group has multiple positions for [PhD students](https://phd.hkubs.hku.hk//), Research Assistants, and Postdocs. We have a focus on business analytics via machine learning with applications ranging from asset pricing to healthcare analytics. If you are interested, self-motivated, and have background in statistics, applied mathematics, or computer science, please send me an email with your CV, **transcripts**, and a short description of your research interests. 
 
 Academic Appointments:
 ------
-- Associate Professor, Innovation and Information Management, Faculty of Business and Economics, The University of Hong Kong , 2018-
-- Assistant Professor, Department of Statistics, Rutgers University,  2013-2019
-- Postdoc, Statistical and Applied Mathematical Sciences Institute,  2012-2013
+- Associate Director, Institute of Digital Economy and Innovation, The University of Hong Kong, 2022-
+- Associate Professor, Innovation and Information Management, Faculty of Business and Economics, The University of Hong Kong, 2018-
+- Assistant Professor, Department of Statistics, Rutgers University, 2013-2019
+- Postdoc, Statistical and Applied Mathematical Sciences Institute, 2012-2013
 
 Education:
 ------
@@ -34,13 +35,16 @@ Education:
 
 Research Interests:
 ------
-- Business analytics in finance and healthcare
-- High-dimensional statistical inference
+
 - Tensor data
+- High-dimensional statistical inference
 - Time series analysis
 - Dimension reduction
-- Functional data analysis and multivariate data analysis
+- Network analysis
+- Functional data analysis
+- Portfolio management
 - Analysis of observational studies and causal inference
+- Business analytics in finance, economics, and healthcare
 
 Professional Services:
 ------
