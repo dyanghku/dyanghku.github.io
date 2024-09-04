@@ -12,4 +12,4 @@ classes: wide
 - The University of Hong Kong
 - Room 816, K.K. Leung Building
 - Phone: (852) 39170015
-- Email: dyanghku\@hku.hk
+- Email: dyanghku at hku dot hk

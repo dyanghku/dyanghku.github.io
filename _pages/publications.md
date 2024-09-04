@@ -4,13 +4,21 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+<style>
+    ul {
+        text-align: justify;
+    }
+</style>
+
 
 ## Grants:
 --------------
-- Statistical Learning with Big Data of Dynamic Tensor Structure. PI. GRF Project No. 17301620, Jan. 2021 - Dec. 2023.
-- Hong Kong RECAP: A Systematic Response Strategy for Novel Infectious Disease Pandemic. Co-PI. CRF Project C7162-20GF, Jul. 2021-Jun. 2023.
-- NSF BIGDATA, IIS-1741390, Statistical Learning with Large Dynamic Tensor Data, Co-PI, 2017-2020
-- Shenzhen SZRI2023-TBRF-03, Smart Healthcare – Accessibility, Quality and Affordability, 2022-2027.
+<ul>
+    <li>Shenzhen SZRI2023-TBRF-03, Smart Healthcare – Accessibility, Quality and Affordability, 2022-2027.</li>
+    <li>Hong Kong RECAP: A Systematic Response Strategy for Novel Infectious Disease Pandemic. Co-PI. CRF Project C7162-20GF, Jul. 2021- Dec. 2024.</li>
+    <li>Statistical Learning with Big Data of Dynamic Tensor Structure. PI. GRF Project No. 17301620, Jan. 2021 - Jun. 2024.</li>
+    <li>NSF BIGDATA, IIS-1741390, Statistical Learning with Large Dynamic Tensor Data, Co-PI, 2017-2020.</li>
+</ul>
 
 ## Preprints:
 --------------
