@@ -27,12 +27,15 @@ Network Regression and Supervised Centrality Estimation. [[SSRN]](https://papers
 
 - Rong Chen, Yuefeng Han, Zebang Li, Han Xiao, Dan Yang, Ruofan Yu (2022) <br> Analysis of Tensor Time Series: tensorTS.
 
-- Dan Yang, Dong Wang, Jianlong Shao, Haipeng Shen and Hongtu Zhu (2020) <br> Optimal functional bilinear regression with matrix covariates via reproducing kernel Hilbert space. [[Arxiv]](http://arxiv.org/abs/2311.12597)
+- Sanyou Wu, Dan Yang, Yan Xu, and  Long Feng (2025) <br> Sparsity-Induced Global Matrix Autoregressive Model with Auxiliary Network Data.
 
 - Jianlong Shao, Dong Wang, Dan Yang, Haipeng Shen and Yan Xu (2022) <br> Multi-Group Multi-Subject Independent Component Analysis with Application in Global Portfolio Management.
 
 ## Publications:
 --------------
+- Dan Yang, Jianlong Shao, Haipeng Shen, and Hongtu Zhu (2025+) <br> Optimal functional bilinear regression with matrix covariates via reproducing kernel Hilbert space. <br> Journal of Machine Learning Research, accepted. 
+[[Arxiv]](http://arxiv.org/abs/2311.12597)
+
 - Yuefeng Han, Rong Chen, Dan Yang, and Cun-Hui Zhang (2024+) <br> Tensor factor model estimation by iterative projection. <br> Annals of Statistics, accepted. [[Arxiv]](https://arxiv.org/abs/2006.02611)
 
 - Yuefeng Han, Dan Yang, Cun-Hui Zhang and Rong Chen (2024+) <br> CP Factor Model for Dynamic Tensors. <br> The Journal of the Royal Statistical Society, Series B, accepted.
@@ -61,7 +64,6 @@ Network Regression and Supervised Centrality Estimation. [[SSRN]](https://papers
 
 ## Work in progress:
 --------------
-- Sparse matrix autoregressive model and global vector autoregressive model, with Long Feng, Sanyou Wu, and Yan Xu. To be submitted to Journal of Econometrics.
 - Matrix mixed data sampling with application in nowcasting of group macroeconomics, with Elynn Chen, Huan Lian, and Yan Xu.
 - Chinese Equity Holding Networks Structure, with Junhui Cai, Haipeng Shen, Wu Zhu, and Linda Zhao.
 - Scalar-on-matrix bilinear regression analysis, with Dong Wang, Haipeng Shen, and Hongtu Zhu.
