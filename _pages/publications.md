@@ -23,7 +23,7 @@ author_profile: true
 ## Preprints:
 --------------
 - Junhui Cai, Dan Yang, Wu Zhu, Haipeng Shen and Linda Zhao (2021) <br>
-Network Regression and Supervised Centrality Estimation. <br> Major revision at Journal of the American Statistical Association [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963523) [[Arxiv]](https://arxiv.org/abs/2111.12921)
+Network Regression and Supervised Centrality Estimation. <br> Major revision at Journal of the American Statistical Association [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963523)
 
 - Rong Chen, Yuefeng Han, Zebang Li, Han Xiao, Dan Yang, Ruofan Yu (2022) <br> Analysis of Tensor Time Series: tensorTS.
 

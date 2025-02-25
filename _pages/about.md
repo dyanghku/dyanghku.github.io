@@ -61,9 +61,11 @@ Research Interests:
 - Analysis of observational studies and causal inference
 - Business analytics in finance, economics, and healthcare
 
-Professional Services:
+Editorial Board:
 ------
-- Associate Editor, Statistica Sinica , 2020 - 2023
+- Associate Editor, Journal of Business Research, 2025-
+- Associate Editor, Statistical Methods and Applications, 2024-
+- Associate Editor, Statistica Sinica, 2020-2023
 
 <p style="text-align: justify;">
 <i>"When you can measure what you are speaking about, and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind: it may be the beginning of knowledge, but you have scarcely, in your thoughts, advanced to the stage of science".</i> Kelvin (1981)
