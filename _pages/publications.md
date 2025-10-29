@@ -40,7 +40,7 @@ Network Regression and Supervised Centrality Estimation. <br> Moderate revision 
 
 - Yuefeng Han, Dan Yang, Cun-Hui Zhang and Rong Chen (2024) <br> CP Factor Model for Dynamic Tensors. <br> The Journal of the Royal Statistical Society, Series B, 86(5), 1383–1413
 
-- Xin Chen, Dan Yang, Yan Xu, Yin Xia, Dong Wang, and Haipeng Shen (2023) <br> Testing and Support Recovery of Correlation Structures for Matrix-Valued Observations with an Application to Stock Market Data. <br> Journal of Econometrics, 232(2), 544-564. [[Arxiv]](https://arxiv.org/abs/2006.16501)
+- Xin Chen, Dan Yang, Yan Xu, Yin Xia, Dong Wang, and Haipeng Shen (2023) <br> Testing and Support Recovery of Correlation Structures for Matrix-Valued Observations with an Application to Stock Market Data. <br> Journal of Econometrics, 232(2), 544-564.
 
 - Junhui Cai, Dan Yang, Linda Zhao and Wu Zhu (2023) <br> Discussion of ‘Vintage Factor Analysis with Varimax Performs Statistical Inference’ by Rohe & Zeng. <br> Journal of the Royal Statistical Society. Series B: Statistical Methodology, 85(4), 1076–1080
 
