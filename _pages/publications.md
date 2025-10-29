@@ -22,23 +22,23 @@ author_profile: true
 
 ## Preprints:
 --------------
-- Junhui Cai, Dan Yang, Wu Zhu, Haipeng Shen and Linda Zhao (2021) <br>
-Network Regression and Supervised Centrality Estimation. <br> Major revision at Journal of the American Statistical Association [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963523)
+- Junhui Cai, Dan Yang, Ran Chen, Wu Zhu, Haipeng Shen and Linda Zhao (2025) <br>
+Network Regression and Supervised Centrality Estimation. <br> Moderate revision at Journal of the American Statistical Association [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963523)
 
 - Rong Chen, Yuefeng Han, Zebang Li, Han Xiao, Dan Yang, Ruofan Yu (2022) <br> Analysis of Tensor Time Series: tensorTS.
 
-- Sanyou Wu, Dan Yang, Yan Xu, and  Long Feng (2025) <br> Sparsity-Induced Global Matrix Autoregressive Model with Auxiliary Network Data.
+- Sanyou Wu, Dan Yang, Yan Xu, and Long Feng (2025) <br> Sparsity-Induced Global Matrix Autoregressive Model with Auxiliary Network Data. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5174546)
 
-- Jianlong Shao, Dong Wang, Dan Yang, Haipeng Shen and Yan Xu (2022) <br> Multi-Group Multi-Subject Independent Component Analysis with Application in Global Portfolio Management.
+- Dan Yang, Yan Xu, Jianlong Shao, and Haipeng Shen (2025) <br> Multi-Group Independent Component Analysis with Application in Global Factor Investment. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5635411)
 
 ## Publications:
 --------------
 - Dan Yang, Jianlong Shao, Haipeng Shen, and Hongtu Zhu (2025+) <br> Optimal functional bilinear regression with matrix covariates via reproducing kernel Hilbert space. <br> Journal of Machine Learning Research, accepted. 
 [[Arxiv]](http://arxiv.org/abs/2311.12597)
 
-- Yuefeng Han, Rong Chen, Dan Yang, and Cun-Hui Zhang (2024+) <br> Tensor factor model estimation by iterative projection. <br> Annals of Statistics, accepted. [[Arxiv]](https://arxiv.org/abs/2006.02611)
+- Yuefeng Han, Rong Chen, Dan Yang, and Cun-Hui Zhang (2024) <br> Tensor factor model estimation by iterative projection. <br> Annals of Statistics, 52(6), 2641-2667
 
-- Yuefeng Han, Dan Yang, Cun-Hui Zhang and Rong Chen (2024+) <br> CP Factor Model for Dynamic Tensors. <br> The Journal of the Royal Statistical Society, Series B, accepted.
+- Yuefeng Han, Dan Yang, Cun-Hui Zhang and Rong Chen (2024) <br> CP Factor Model for Dynamic Tensors. <br> The Journal of the Royal Statistical Society, Series B, 86(5), 1383–1413
 
 - Xin Chen, Dan Yang, Yan Xu, Yin Xia, Dong Wang, and Haipeng Shen (2023) <br> Testing and Support Recovery of Correlation Structures for Matrix-Valued Observations with an Application to Stock Market Data. <br> Journal of Econometrics, 232(2), 544-564. [[Arxiv]](https://arxiv.org/abs/2006.16501)
 
@@ -64,11 +64,12 @@ Network Regression and Supervised Centrality Estimation. <br> Major revision at 
 
 ## Work in progress:
 --------------
+- Optimal Assortment and Pricing via Generalized MNL Models with Poisson Arrivals, with Junhui Cai, Ran Chen, Qitao Huang, Martin Wainwright, Linda Zhao, and Wu Zhu.
 - Matrix mixed data sampling with application in nowcasting of group macroeconomics, with Elynn Chen, Huan Lian, and Yan Xu.
-- Chinese Equity Holding Networks Structure, with Junhui Cai, Haipeng Shen, Wu Zhu, and Linda Zhao.
-- Scalar-on-matrix bilinear regression analysis, with Dong Wang, Haipeng Shen, and Hongtu Zhu.
-- Matrix GARCH model and portfolio construction, with Jianlong Shao, Haipeng Shen and Yan Xu.
-- Tensor decomposition and optimization of food delivery services, with Haobo Yu and Wei Zhang.
-- Parametric portfolio with expected return via Kronecker product decomposition, with Hanni Jie and Yan Xu.
-- The role of AI chatbot in auti-fraud phone call, with Xiaoliang Chen, Guoyu Kang, Haipeng Shen, and Echo Wan.
+- Independent Component Analysis in Foreign Currency Market, with Ruotian Wang and Yan Xu.
+- Tensor MDP in food delivery services, with Haobo Yu and Wei Zhang.
 - Three-way PCA for the factor zoo problem, with Tong Xu and Yan Xu.
+- Chinese Equity Holding Networks Structure, with Junhui Cai, Haipeng Shen, Wu Zhu, and Linda Zhao.
+- Matrix GARCH model and portfolio construction, with Jianlong Shao, Haipeng Shen and Yan Xu.
+- The role of AI chatbot in auti-fraud phone call, with Xiaoliang Chen, Guoyu Kang, Haipeng Shen, and Echo Wan.
+
