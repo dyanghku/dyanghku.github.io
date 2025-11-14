@@ -22,9 +22,6 @@ author_profile: true
 
 ## Preprints:
 --------------
-- Junhui Cai, Dan Yang, Ran Chen, Wu Zhu, Haipeng Shen and Linda Zhao (2025) <br>
-Network Regression and Supervised Centrality Estimation. <br> Moderate revision at Journal of the American Statistical Association [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963523)
-
 - Rong Chen, Yuefeng Han, Zebang Li, Han Xiao, Dan Yang, Ruofan Yu (2022) <br> Analysis of Tensor Time Series: tensorTS.
 
 - Sanyou Wu, Dan Yang, Yan Xu, and Long Feng (2025) <br> Sparsity-Induced Global Matrix Autoregressive Model with Auxiliary Network Data. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5174546)
@@ -33,6 +30,9 @@ Network Regression and Supervised Centrality Estimation. <br> Moderate revision 
 
 ## Publications:
 --------------
+- Junhui Cai, Dan Yang, Ran Chen, Wu Zhu, Haipeng Shen and Linda Zhao (2025+) <br>
+Network Regression and Supervised Centrality Estimation. <br> Journal of the American Statistical Association, accepted [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963523)
+
 - Dan Yang, Jianlong Shao, Haipeng Shen, and Hongtu Zhu (2025+) <br> Optimal functional bilinear regression with matrix covariates via reproducing kernel Hilbert space. <br> Journal of Machine Learning Research, accepted. 
 [[Arxiv]](http://arxiv.org/abs/2311.12597)
 
