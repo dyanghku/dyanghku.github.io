@@ -14,7 +14,7 @@ redirect_from:
 
 
 <p style="text-align: justify;">
-I am an Associate Professor in the Department of Statistics and Data Science at Tsinghua University. at Innovation and Information Management, <a href="https://www.hkubs.hku.hk/">Business School</a>, <a href="https://www.hku.hk/">The University of Hong Kong</a>, and an Associate Director for <a href="https://idei.hkubs.hku.hk/">Institute of Digital Economy and Innovation</a> (IDEI). 
+I am an Associate Professor in the Department of Statistics and Data Science <a href="https://www.stat.tsinghua.edu.cn/en/"> at Tsinghua University. at Innovation and Information Management, <a href="https://www.hkubs.hku.hk/">Business School</a>, <a href="https://www.hku.hk/">The University of Hong Kong</a>, and an Associate Director for <a href="https://idei.hkubs.hku.hk/">Institute of Digital Economy and Innovation</a> (IDEI). 
 </p>
 
 <p style="text-align: justify;">
